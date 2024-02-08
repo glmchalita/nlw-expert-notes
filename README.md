@@ -2,9 +2,9 @@
 
 <h1 align="center">
   <img src="../media/images/nlw-expert-notes.png?raw=true">
-</h1>
 
-<p style="font-size: 128px" align="center">NLW Expert Notes</p>
+  NLW Expert Notes
+</h1>
 
 ## Info
 Application for saving notes using text or voice recognition with the browser's native API, SpeechRecognition. We can transcribe the client's audio directly into text for the notes.
