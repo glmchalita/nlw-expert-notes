@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
 <h1 align="center">
-  <img src="../media/nlw-expert-notes.png?raw=true">
-
+  <img src="../media/images/nlw-expert-notes.png?raw=true">
 </h1>
 
 <p style="font-size: 32px" align="center">NLW Expert Notes</p>
